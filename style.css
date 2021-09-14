@@ -1,0 +1,22 @@
+.resume{
+    background-color: rgb(193, 201, 226);
+    border-style: dotted;
+    border-width: 7px;
+}
+
+.header{
+    background-color: aqua;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.sections{
+    border-style:ridge;
+    border-width: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
